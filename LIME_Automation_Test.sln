@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIME", "LIME\LIME.csproj", "{DB332E1B-521B-47A1-8976-0B54EF420BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB332E1B-521B-47A1-8976-0B54EF420BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB332E1B-521B-47A1-8976-0B54EF420BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB332E1B-521B-47A1-8976-0B54EF420BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB332E1B-521B-47A1-8976-0B54EF420BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E455B0-FF12-4F2C-8FA0-81E6C419921D}
+	EndGlobalSection
+EndGlobal
