@@ -80,7 +80,7 @@ namespace LIME.TestLayer.Feature.Admin
             string[] tagsOfScenario = ((string[])(null));
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Open Admin Dashboard & validate General links", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
-#line 7
+#line 4
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             bool isScenarioIgnored = default(bool);
@@ -100,18 +100,26 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-#line 8
+#line 5
 testRunner.Given("Navigate to Lime Home Page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
-#line 9
+#line 6
 testRunner.When("Admin is clicked on main menu", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
-#line 10
+#line 7
 testRunner.And("Dashboard is selected", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
-#line 11
+                TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
+                            "UserLink",
+                            "FeturesLink",
+                            "PermissionLink"});
+                table1.AddRow(new string[] {
+                            "Users",
+                            "Features",
+                            "Permissions"});
+#line 8
 testRunner.Then("General menu can be minimised / maximised and text links and icons are correctly " +
-                        "displayed", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+                        "displayed", ((string)(null)), table1, "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
@@ -124,7 +132,7 @@ testRunner.Then("General menu can be minimised / maximised and text links and ic
             string[] tagsOfScenario = ((string[])(null));
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Open Admin Dashboard & validate Admin links", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
-#line 14
+#line 12
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
             bool isScenarioIgnored = default(bool);
@@ -144,18 +152,18 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
-#line 15
+#line 13
 testRunner.Given("Navigate to Lime Home Page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
-#line 16
+#line 14
 testRunner.When("Admin is clicked on main menu", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
-#line 17
+#line 15
 testRunner.And("Dashboard is selected", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
-#line 18
-testRunner.Then("Admin menu can be minimised/maximised and text links and icons are correctly disp" +
-                        "layed", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line 16
+testRunner.Then("Admin menu can be minimised/maximised/text links and icons are correctly displaye" +
+                        "d", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();

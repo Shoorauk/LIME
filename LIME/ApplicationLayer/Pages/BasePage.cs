@@ -33,6 +33,8 @@ namespace LIME.ApplicationLayer.Pages
             return element;
         }
 
+       
+
         public override string getText(By locator)
         {
 
@@ -213,13 +215,15 @@ namespace LIME.ApplicationLayer.Pages
         }
 
 
-        public void SelectDropDown(By locator, string text)
+        public void SelectDropDownbyText(By locator, string text)
         {
             IWebElement element = _driver.FindElement(locator);
             SelectElement select = new SelectElement(element);
             select.SelectByText(text);
 
         }
+
+        
 
 
         public static string EncodePasswordToBase64(string password)

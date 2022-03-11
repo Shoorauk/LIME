@@ -1,0 +1,123 @@
+2022-03-08 08:13:48.857 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-08 08:13:51.298 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-08 08:16:17.498 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-08 08:16:19.682 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-08 08:16:37.560 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-08 08:16:40.074 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-08 12:50:08.570 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-08 12:50:10.955 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-08 12:50:16.684 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-08 13:13:25.697 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-08 13:13:27.982 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-08 13:23:20.009 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 13:23:22.494 |{Level :u3} |Selecting feature file "Select language Cymraeg (Welsh)" to run 
+2022-03-08 13:24:21.579 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 13:24:24.004 |{Level :u3} |Selecting feature file "Select language Cymraeg (Welsh)" to run 
+2022-03-08 13:27:20.849 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 13:27:23.313 |{Level :u3} |Selecting feature file "Select language Cymraeg (Welsh)" to run 
+2022-03-08 13:32:35.019 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 13:32:37.392 |{Level :u3} |Selecting feature file "Select language Cymraeg (Welsh)" to run 
+2022-03-08 13:33:17.891 |{Level :u3} |Test Step Failed |  Element should have been select but was i 
+2022-03-08 13:34:18.909 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 13:34:21.382 |{Level :u3} |Selecting feature file "Select language Cymraeg (Welsh)" to run 
+2022-03-08 13:38:14.131 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 13:38:16.521 |{Level :u3} |Selecting feature file "Select language Cymraeg (Welsh)" to run 
+2022-03-08 13:46:36.308 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 13:46:38.492 |{Level :u3} |Selecting feature file "Select language Cymraeg (Welsh)" to run 
+2022-03-08 13:47:29.153 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-08 13:47:31.483 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-08 13:47:37.233 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-08 13:47:43.877 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 13:47:46.013 |{Level :u3} |Selecting feature file "Select language Cymraeg (Welsh)" to run 
+2022-03-08 13:54:08.009 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 13:54:10.260 |{Level :u3} |Selecting feature file "Select language English GB" to run 
+2022-03-08 13:59:49.928 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 13:59:52.420 |{Level :u3} |Selecting feature file "Select language English US" to run 
+2022-03-08 14:21:21.717 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-08 14:21:23.937 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-08 14:21:29.654 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-08 14:21:36.355 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 14:21:38.641 |{Level :u3} |Selecting feature file "Select language Cymraeg (Welsh)" to run 
+2022-03-08 14:21:43.051 |{Level :u3} |Selecting feature file "Select language English GB" to run 
+2022-03-08 14:21:47.507 |{Level :u3} |Selecting feature file "Select language English US" to run 
+2022-03-08 14:21:51.882 |{Level :u3} |Selecting feature file "Select language Espanol" to run 
+2022-03-08 14:21:56.368 |{Level :u3} |Selecting feature file "Select language Mandarin" to run 
+2022-03-08 14:22:27.916 |{Level :u3} |Test Step Failed |  Object reference not set to an instance of an object. 
+2022-03-08 14:23:26.041 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 14:23:28.391 |{Level :u3} |Selecting feature file "Select language Mandarin" to run 
+2022-03-08 14:23:41.077 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 14:23:43.332 |{Level :u3} |Selecting feature file "Select language Mandarin" to run 
+2022-03-08 14:51:30.917 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 14:51:33.136 |{Level :u3} |Selecting feature file "Open notification" to run 
+2022-03-08 14:51:34.380 |{Level :u3} |Test Step Failed |    Expected string length 13 but was 15. Strings differ at index 0.
+  Expected: "Notifications"
+  But was:  "<Notifications>"
+  -----------^
+ 
+2022-03-08 14:52:21.424 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 14:52:23.692 |{Level :u3} |Selecting feature file "Open notification" to run 
+2022-03-08 15:12:00.042 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 15:12:02.283 |{Level :u3} |Selecting feature file "Validate the edit profile header" to run 
+2022-03-08 16:16:19.719 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:16:21.952 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:18:30.646 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:18:32.827 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:21:15.892 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:21:18.262 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:23:02.468 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:23:04.710 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:23:27.711 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:23:29.981 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:26:39.307 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:26:42.068 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:27:17.165 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:27:19.555 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:28:37.243 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:28:40.340 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:30:17.019 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:30:19.995 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:31:16.844 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:31:19.574 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:32:14.128 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:32:18.561 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:32:50.254 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:32:53.514 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:33:34.495 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:33:37.121 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:36:35.836 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:36:40.813 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:38:38.040 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:38:41.602 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:39:23.774 |{Level :u3} |Test Step Failed |  Object reference not set to an instance of an object. 
+2022-03-08 16:39:46.015 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:39:48.226 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:40:51.582 |{Level :u3} |Test Step Failed |  Object reference not set to an instance of an object. 
+2022-03-08 16:41:41.126 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:41:43.451 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:42:46.175 |{Level :u3} |Test Step Failed |  Object reference not set to an instance of an object. 
+2022-03-08 16:43:35.569 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:43:38.834 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:45:42.505 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:45:44.741 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:47:41.065 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:47:43.839 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:50:34.812 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:50:37.129 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 16:51:42.207 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-08 16:51:44.645 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-08 16:51:50.321 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-08 16:51:57.468 |{Level :u3} |Selecting feature file "HomePage" to run 
+2022-03-08 16:51:59.675 |{Level :u3} |Selecting feature file "Open notification" to run 
+2022-03-08 16:52:04.187 |{Level :u3} |Selecting feature file "Select language Cymraeg (Welsh)" to run 
+2022-03-08 16:52:08.628 |{Level :u3} |Selecting feature file "Select language English GB" to run 
+2022-03-08 16:52:13.042 |{Level :u3} |Selecting feature file "Select language English US" to run 
+2022-03-08 16:52:17.530 |{Level :u3} |Selecting feature file "Select language Espanol" to run 
+2022-03-08 16:52:22.041 |{Level :u3} |Selecting feature file "Select language Mandarin" to run 
+2022-03-08 16:52:26.468 |{Level :u3} |Selecting feature file "Validate the edit profile header" to run 
+2022-03-08 16:52:28.721 |{Level :u3} |Selecting feature file "Technical" to run 
+2022-03-08 16:52:30.948 |{Level :u3} |Selecting feature file "Validate the Sales part description" to run 
+2022-03-08 17:00:10.271 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-08 17:00:12.726 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-08 17:03:41.089 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-08 17:03:43.305 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-08 17:03:49.072 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 

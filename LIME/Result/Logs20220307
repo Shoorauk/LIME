@@ -1,2 +1,46 @@
 2022-03-07 17:49:00.814 |{Level :u3} |Selecting feature file "Dashboard" to run 
 2022-03-07 17:49:03.408 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-07 13:06:14.105 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 13:06:15.624 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 13:06:17.901 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-07 13:17:52.426 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 13:17:54.717 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 13:17:54.746 |{Level :u3} |Test Step Failed |  Object reference not set to an instance of an object. 
+2022-03-07 13:17:58.134 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 
+2022-03-07 13:17:58.136 |{Level :u3} |Test Step Failed |  Object reference not set to an instance of an object. 
+2022-03-07 14:29:47.528 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 14:29:49.798 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 14:30:13.375 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 14:30:15.692 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 14:30:58.474 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 14:31:00.874 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 14:38:02.311 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 14:38:04.626 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 14:38:42.817 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 14:38:45.059 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 14:45:05.321 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 14:45:07.679 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 14:46:27.998 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 14:46:30.454 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 14:47:33.771 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 14:47:36.231 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 14:48:37.514 |{Level :u3} |Test Step Failed |  Timed out after 30 seconds 
+2022-03-07 17:44:48.785 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 17:44:51.214 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 17:45:52.422 |{Level :u3} |Test Step Failed |  Timed out after 30 seconds 
+2022-03-07 17:49:51.003 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 17:49:53.293 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 18:05:53.285 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 18:05:55.499 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 18:07:45.043 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 18:07:47.257 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 18:08:03.226 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 18:08:05.555 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 18:09:38.734 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 18:09:41.080 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 18:15:52.036 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 18:15:54.432 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 18:19:08.588 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 18:19:10.864 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate Admin links" to run 
+2022-03-07 18:19:53.395 |{Level :u3} |Selecting feature file "Dashboard" to run 
+2022-03-07 18:19:55.747 |{Level :u3} |Selecting feature file "Open Admin Dashboard & validate General links" to run 

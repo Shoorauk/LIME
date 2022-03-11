@@ -8,5 +8,11 @@
     <Compile Update="TestLayer\StepDefiniation\Admin\DashboardSteps.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="TestLayer\StepDefiniation\Admin\HomeSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TestLayer\StepDefiniation\TechnicalSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

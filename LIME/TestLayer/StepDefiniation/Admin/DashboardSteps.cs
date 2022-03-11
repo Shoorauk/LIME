@@ -1,46 +1,59 @@
-﻿using LIME.Hooks;
-using System;
-
+﻿using LIME.ApplicationLayer.Pages.Admin;
+using LIME.Helper;
+using LIME.Hooks;
 using TechTalk.SpecFlow;
+using TechTalk.SpecFlow.Assist;
 
 namespace LIME.TestLayer.StepDefiniation.Admin
 {
     [Binding]
     public sealed class DashboardSteps
     {
-
+        public DashboardPage _dashboardPage;
+        public DashboardSteps(WebDriver driver)
+        {
+            _dashboardPage = new DashboardPage(driver.Driver);
+        }
 
         [Given(@"Navigate to Lime Home Page")]
         public void GivenNavigateToLimeHomePage()
         {
-            
-            
-            Console.WriteLine(HookInitialize.configSetting.BaseUrl);
+            _dashboardPage.NavigateToLime(HookInitialize.configSetting.BaseUrl);
+
         }
 
         [When(@"Admin is clicked on main menu")]
         public void WhenAdminIsClickedOnMainMenu()
         {
-            Console.WriteLine("test");
+            _dashboardPage.NavigateToAdmin();
         }
 
         [When(@"Dashboard is selected")]
         public void WhenDashboardIsSelected()
         {
-            Console.WriteLine("test");
+            _dashboardPage.ClickonDashboard();
         }
+
+       
 
         [Then(@"General menu can be minimised / maximised and text links and icons are correctly displayed")]
-        public void ThenGeneralMenuCanBeMinimisedMaximisedAndTextLinksAndIconsAreCorrectlyDisplayed()
+        public void ThenGeneralMenuCanBeMinimisedMaximisedAndTextLinksAndIconsAreCorrectlyDisplayed(Table table)
         {
-            Console.WriteLine("test");
+            dynamic data = table.CreateDynamicInstance();
+            _dashboardPage.DashboadValidation();
+            _dashboardPage.ValidateGeneralText(data.UserLink, data.FeturesLink, data.PermissionLink);
+            _dashboardPage.ValidateIcon();
         }
 
-        [Then(@"Admin menu can be minimised/maximised and text links and icons are correctly displayed")]
-        public void ThenAdminMenuCanBeMinimisedMaximisedAndTextLinksAndIconsAreCorrectlyDisplayed()
+
+
+        [Then(@"Admin menu can be minimised/maximised/text links and icons are correctly displayed")]
+        public void ThenAdminMenuCanBeMinimisedMaximisedTextLinksAndIconsAreCorrectlyDisplayed()
         {
-            Console.WriteLine("test2");
+            _dashboardPage.AdminValidation();
+            _dashboardPage.validateAdminIcon();
         }
+
 
 
     }
