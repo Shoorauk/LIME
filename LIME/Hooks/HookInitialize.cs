@@ -152,6 +152,15 @@ namespace LIME.Hooks
         public void AfterScenario()
         {
             _driver.Driver.Quit();
+            System.Diagnostics.ProcessStartInfo p;
+            p = new System.Diagnostics.ProcessStartInfo("cmd.exe", "/C" + "killtask /f /im msedgedriver.exe");
+            System.Diagnostics.Process proc = new System.Diagnostics.Process();
+            proc.StartInfo = p;
+            proc.Start();
+            proc.WaitForExit();
+            proc.Close();
+
+
         }
 
         [BeforeStep]

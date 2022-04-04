@@ -581,7 +581,6 @@ C:\Repos\Selenium\LIME_Automation_Test\LIME\bin\Debug\netcoreapp3.1\runtimes\win
 C:\Repos\Selenium\LIME_Automation_Test\LIME\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Repos\Selenium\LIME_Automation_Test\LIME\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Repos\Selenium\LIME_Automation_Test\LIME\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
-C:\Repos\Selenium\LIME_Automation_Test\LIME\obj\Debug\netcoreapp3.1\LIME.csproj.AssemblyReference.cache
 C:\Repos\Selenium\LIME_Automation_Test\LIME\obj\Debug\netcoreapp3.1\LIME.GeneratedMSBuildEditorConfig.editorconfig
 C:\Repos\Selenium\LIME_Automation_Test\LIME\obj\Debug\netcoreapp3.1\LIME.AssemblyInfoInputs.cache
 C:\Repos\Selenium\LIME_Automation_Test\LIME\obj\Debug\netcoreapp3.1\LIME.AssemblyInfo.cs
@@ -590,3 +589,4 @@ C:\Repos\Selenium\LIME_Automation_Test\LIME\obj\Debug\netcoreapp3.1\LIME.csproj.
 C:\Repos\Selenium\LIME_Automation_Test\LIME\obj\Debug\netcoreapp3.1\LIME.dll
 C:\Repos\Selenium\LIME_Automation_Test\LIME\obj\Debug\netcoreapp3.1\LIME.pdb
 C:\Repos\Selenium\LIME_Automation_Test\LIME\obj\Debug\netcoreapp3.1\LIME.genruntimeconfig.cache
+C:\Repos\Selenium\LIME_Automation_Test\LIME\obj\Debug\netcoreapp3.1\LIME.csproj.AssemblyReference.cache

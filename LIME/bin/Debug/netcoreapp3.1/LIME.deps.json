@@ -16,7 +16,7 @@
           "Newtonsoft.Json": "13.0.1",
           "Selenium.Support": "4.1.0",
           "Selenium.WebDriver": "4.1.0",
-          "Selenium.WebDriver.MSEdgeDriver": "98.0.1108.56",
+          "Selenium.WebDriver.MSEdgeDriver": "99.0.1150.46",
           "Serilog": "2.10.0",
           "Serilog.Formatting.Compact": "1.1.0",
           "Serilog.Sinks.File": "5.0.0",
@@ -1423,7 +1423,7 @@
           }
         }
       },
-      "Selenium.WebDriver.MSEdgeDriver/98.0.1108.56": {},
+      "Selenium.WebDriver.MSEdgeDriver/99.0.1150.46": {},
       "Serilog/2.10.0": {
         "runtime": {
           "lib/netstandard2.1/Serilog.dll": {
@@ -3269,12 +3269,12 @@
       "path": "selenium.webdriver/4.1.0",
       "hashPath": "selenium.webdriver.4.1.0.nupkg.sha512"
     },
-    "Selenium.WebDriver.MSEdgeDriver/98.0.1108.56": {
+    "Selenium.WebDriver.MSEdgeDriver/99.0.1150.46": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-12xj651DIG2gCbpCE1mo/L86XtEmtgPCU8YWtKkcILjvvVaq0PYnmWqzPEgBKdaB0h77n3pykeq2b5ET4w4epw==",
-      "path": "selenium.webdriver.msedgedriver/98.0.1108.56",
-      "hashPath": "selenium.webdriver.msedgedriver.98.0.1108.56.nupkg.sha512"
+      "sha512": "sha512-ykyrOPE7a2nlZLDCRtysEHQpgERDA50Tyrw7JjDUlUz3jXfMhx8Z7zlWeklPTtnDqfqcSo2lqCewCPrUPoRVEA==",
+      "path": "selenium.webdriver.msedgedriver/99.0.1150.46",
+      "hashPath": "selenium.webdriver.msedgedriver.99.0.1150.46.nupkg.sha512"
     },
     "Serilog/2.10.0": {
       "type": "package",

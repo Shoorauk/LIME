@@ -74,7 +74,7 @@
             },
             "Selenium.WebDriver.MSEdgeDriver": {
               "target": "Package",
-              "version": "[98.0.1108.56, )"
+              "version": "[99.0.1150.46, )"
             },
             "Serilog": {
               "target": "Package",

@@ -17,7 +17,7 @@ namespace LIME.ApplicationLayer.Pages
         By clickOnTechnicalOption = By.XPath("//span[normalize-space()='Technical']");
         By clickOnSalePartsLink = By.XPath("//div[contains(text(),'Sales Parts')]");        
         By clickOnPartNumber = By.XPath("//a[normalize-space()='0001-000001-001']");
-        By validateSalesTitle = By.XPath("//h2[normalize-space()='Sales Part']123");
+        By validateSalesTitle = By.XPath("//h2[normalize-space()='Sales Part']");
         By validatePartnumberDesc = By.XPath("//a[normalize-space()='0001-000001-001 Rev 1 : Description text']");
 
         
